@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-carrier",
+  "version": "1.0.0",
+  "description": "A cordova plugin to get the device's carrier name, mcc, mnc and country code",
+  "main": "www/carrier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbantz/cordova-plugin-carrier.git"
+  },
+  "author": "dtmtec",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/urbantz/cordova-plugin-carrier/issues"
+  },
+  "homepage": "https://github.com/urbantz/cordova-plugin-carrier#readme"
+}
